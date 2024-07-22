@@ -8,15 +8,12 @@
 .mainpic {
     border-radius: 50%; border-style: inset;
     border-color: gray;
+    align-self: first baseline;
   }
 p{
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: antiquewhite;
 }
-.mainpic{
-    align-self: first baseline;
-}
-
 * {
 	box-sizing: border-box;
 }
