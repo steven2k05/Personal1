@@ -1,0 +1,17 @@
+*{
+    background-image: url('./7971.jpg')
+}
+.Title{
+    font-family: Georgia, 'Times New Roman', Times, serif; color: antiquewhite;
+}
+img {
+    border-radius: 50%; border-style: inset;
+    border-color: gray;
+  }
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: antiquewhite;
+}
+.mainpic{
+    align-self: first baseline;
+}
